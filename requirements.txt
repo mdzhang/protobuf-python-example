@@ -1,0 +1,4 @@
+# May need to install Cython before grpcio-tools
+Cython==0.24.1
+grpcio==1.0.0
+grpcio-tools==1.0.0
